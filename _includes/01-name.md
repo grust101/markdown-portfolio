@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome
+### Hi there! My name is Georgia Rust and welcome to my portfolio!
